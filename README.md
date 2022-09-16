@@ -1,2 +1,1 @@
-# CunyTechPrep Work
 # CunyTechPrep
